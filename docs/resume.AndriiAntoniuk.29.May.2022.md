@@ -20,11 +20,12 @@ fullUrl: fullUrl
 > (🗿) *** senior + source code expert ***
 
 SKILLS PROGRAMMING
- - MV C++, .NET, ASP.NET, C#{% include video-player-link.html content="🎬" cls="index" tm="01:04:40" %}
+ - C++, MFC, .NET, WPF, ASP.NET, C#{% include video-player-link.html content="🎬" cls="index" tm="01:04:40" %}
  - XML, XSLT
  - PHP, JAVASCRIPT, ANDROID
 
 DEVELOPMENT
+ - Rust
  - Laravel(🗿){% include video-player-link.html content="🎬" cls="index" tm="37:54" %}
  - HTML/CSS/CSS3/SASS/STYLUS/Tailwind CSS/daisyUI/JAVASCRIPT
  - VueJS/Vuex/Nuxt.js/Quasar(🗿){% include video-player-link.html content="🎬" cls="index" tm="39:15" %} {% include video-player-link.html content="🎬" cls="rss-mng" tm="00:03" %}
@@ -32,6 +33,7 @@ DEVELOPMENT
  - Webpack{% include video-player-link.html content="🎬" cls="index" tm="57:43" %}
  - VS Code extensions(🗿), Monarch{% include video-player-link.html content="🎬" cls="index" tm="51:05" %}
  - - Active Blueprint {% include video-player-link.html content="🎬" cls="index" tm="01:28" %}{% include video-player-link.html content="🎬" cls="index" tm="04:03" %}, Bonsai (remote debugger){% include video-player-link.html content="🎬" cls="index" tm="02:33" %}, BOOK-A (Cloud Alone){% include video-player-link.html content="🎬" cls="index" tm="50:57" %}, [Useful Panel](https://andrey-hilux.github.io/vscode.extension.usefulPanel) ...
+
  - cypress.io(🗿) tester
  - benchmark{% include video-player-link.html content="🎬" cls="index" tm="57:28" %}
  - NodeJs
