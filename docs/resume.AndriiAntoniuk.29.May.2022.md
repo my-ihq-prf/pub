@@ -26,10 +26,9 @@ SKILLS PROGRAMMING
 
 DEVELOPMENT
  - Rust
- - Laravel(🗿){% include video-player-link.html content="🎬" cls="index" tm="37:54" %}
- -  - #### [Laravel+Vue Js+Tailwind Css](https://github.com/my-ihq-prf/Laravel-Vue-Js-Tailwind-Css/blob/main/README.md)
 
- ####
+ - Laravel(🗿){% include video-player-link.html content="🎬" cls="index" tm="37:54" %}
+ -  - ##### [Laravel+Vue Js+Tailwind Css](https://github.com/my-ihq-prf/Laravel-Vue-Js-Tailwind-Css/blob/main/README.md)
 
  - HTML/CSS/CSS3/SASS/STYLUS/Tailwind CSS/daisyUI/JAVASCRIPT
  - VueJS/Vuex/Nuxt.js/Quasar(🗿){% include video-player-link.html content="🎬" cls="index" tm="39:15" %} {% include video-player-link.html content="🎬" cls="rss-mng" tm="00:03" %}
